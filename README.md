@@ -6,3 +6,4 @@ To change loader animation change line 8 in index.html file
 
 if neccessary change styling in folder css 
 
+Live preview: https://pyotrlogvinenko.github.io/animated_loader/
